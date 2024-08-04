@@ -1,5 +1,6 @@
-Overview:
+
 1)FASHION MNIST Classification with the help of Logistic Regression taking the help of Semi-Supervised learning
+  Overview:
     This project aims to classify images from the Fashion MNIST dataset using a semi-supervised learning approach.
     Semi-supervised learning combines a small amount of labeled data with a large amount of unlabeled data to improve learning accuracy.
   
@@ -28,6 +29,7 @@ Overview:
         The results show the effectiveness of the semi-supervised learning approach in improving the classification  accuracy of the Fashion MNIST dataset.
 
 2)Overhead MNIST Classification with Neural Networks taking the help of Semi-Supervised Learning
+  Overview:
       This repository contains a ipynb file that demonstrates the classification of the Overhead MNIST dataset using a neural network model. 
       The neural network is trained on the dataset to accurately classify the overhead images.
 
